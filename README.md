@@ -20,7 +20,7 @@ At the end of the course, the student will be able to:
 - understand the principles of supervised learning and Bayesian decision theory; 
 - understand and apply the most classical classification techniques (discriminant analysis, logistic regression, decision trees, linear regression).
 
-Keywords :	
+#### Keywords :	
 classification
 data mining
 data visualization
@@ -28,7 +28,9 @@ exploratory data analysis
 clustering
 data science
 
-Program :	
+#### Program :	
 Introduction: examples of problem of prediction; supervised and unsupervised training; Multidimensional statistics: random vectors and descriptive statistics; Geometrical representations of the data; Principal component analysis; Factorial discriminant analysis; Clustering : k-means algorithm and agglomerative hierarchical clustering algorithm of Ward; Mixture model and clustering; Mixture model and clustering; Kohonen's Self-Organizing Map; Methods of regression.
 
-Results :	At the end of this course, the students must be able of: to process and describe the data contained in large data set; to understand the mechanisms justifying the use of a particular method; to solve problems with real data.
+#### Results :	
+
+At the end of this course, the students must be able of: to process and describe the data contained in large data set; to understand the mechanisms justifying the use of a particular method; to solve problems with real data.
